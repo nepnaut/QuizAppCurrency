@@ -1,0 +1,64 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Qiuz App Currencies</string>
+
+    <!--Enter Your Name Field-->
+    <string name="enter_your_name">Enter Your Name</string>
+
+    <!--Explanation-->
+    <string name="explanation">The first question is 2 points. The other questions are 1 point. Maximum number of points is 6.</string>
+
+    <!--Question 1-->
+    <string name="num_question_1">Question 1</string>
+    <string name="question_1">Which countries use the euro as a currency? (There may be more accurate answers.)</string>
+
+    <!--Answers to the question 1-->
+    <string name="answer_1_1_France">France</string>
+    <string name="answer_1_2_Sweden">Sweden</string>
+    <string name="answer_1_3_Finland">Finland</string>
+    <string name="answer_1_4_Russia">Russia</string>
+
+    <!--Question 2-->
+    <string name="num_question_2">Question 2</string>
+    <string name="question_2">Which currency is used in China?</string>
+
+    <!--Answers to the question 2-->
+    <string name="answer_2_1_Yen">Yen</string>
+    <string name="answer_2_2_Euro">Euro</string>
+    <string name="answer_2_3_Rupee">Ruppe</string>
+    <string name="answer_2_4_Yuan">Yuan</string>
+
+    <!--Question 3-->
+    <string name="num_question_3">Question 3</string>
+    <string name="question_3">Which currency is used in USA?</string>
+
+    <!--Answers to the question 3-->
+    <string name="answer_3_1_Krone">Krone</string>
+    <string name="answer_3_2_Euro">Euro</string>
+    <string name="answer_3_3_Dollar">Dollar</string>
+    <string name="answer_3_4_Real">Real</string>
+
+    <!--Question 4-->
+    <string name="num_question_4">Question 4</string>
+    <string name="question_4">Which currency is used in Botswana?</string>
+
+    <!--Answers to the question 4-->
+    <string name="answer_4_1_Pula">Pula</string>
+    <string name="answer_4_2_Franc">Franc</string>
+    <string name="answer_4_3_Pound">Pound</string>
+    <string name="answer_4_4_Gorude">Gorude</string>
+
+    <!--Question 5-->
+    <string name="num_question_5">Question 5</string>
+    <string name="question_5">Which currency is used in Mexico?</string>
+
+    <!--Answers to the question 5-->
+    <string name="answer_5_1_Piso">Piso</string>
+    <string name="answer_5_2_Dollar">Dollar</string>
+    <string name="answer_5_3_Peso">Peso</string>
+    <string name="answer_5_4_Real">Real</string>
+
+    <!--Button "End Test"-->
+    <string name="final_Result">Score</string>
+
+</resources>
